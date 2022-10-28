@@ -1,0 +1,18 @@
+#example-card {
+  max-width: 400px;
+}
+
+#firstCard {
+  max-width: 800px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.example-footer {
+  display: flex;
+  font-size: 12px;
+  line-height: 16px;
+  height: auto;
+}
